@@ -1,3 +1,2 @@
 # data-science-marketing
-This is the repository for Data Science for Marketing Analytics. made by me.
-Hear you can get some ideas of how to word with Sem, Seo, CRM Data 
+This is the Data Science for Marketing Analytics repository. made by me. Which I hope it gives you some idea of how to work with Sem, Seo, CRM data and thereby improve your marketing campaigns.
